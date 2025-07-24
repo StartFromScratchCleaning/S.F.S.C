@@ -1,7 +1,7 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Start From Scratch Cleaning, LLC - Professional Cleaning Services</title>
     <!-- Tailwind CSS CDN -->
@@ -38,7 +38,7 @@
         <a href="#" class="text-2xl font-bold text-teal-600 mb-4 md:mb-0">Start From Scratch Cleaning, LLC</a>
         <div class="flex flex-wrap justify-center gap-4 md:gap-8">
             <a href="#home" class="text-gray-700 hover:text-teal-600 font-medium transition duration-300">Home</a>
-            <a href="#services" class="text-gray-700 hover:text-teal-600 font-medium transition duration-300">Services</a>
+            <a href="#services" class="text-700 hover:text-teal-600 font-medium transition duration-300">Services</a>
             <a href="#about" class="text-gray-700 hover:text-teal-600 font-medium transition duration-300">About Us</a>
             <a href="#testimonials" class="text-gray-700 hover:text-teal-600 font-medium transition duration-300">Testimonials</a>
             <a href="#contact" class="text-gray-700 hover:text-teal-600 font-medium transition duration-300">Contact</a>
@@ -183,24 +183,12 @@
                 </div>
             </div>
 
-            <!-- Contact Form -->
-            <form class="bg-white p-8 rounded-xl shadow-lg max-w-xl mx-auto">
-                <div class="mb-6 text-left">
-                    <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
-                    <input type="text" id="name" name="name" class="shadow appearance-none border rounded-lg w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent" placeholder="Your Name">
-                </div>
-                <div class="mb-6 text-left">
-                    <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
-                    <input type="email" id="email" name="email" class="shadow appearance-none border rounded-lg w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent" placeholder="your@email.com">
-                </div>
-                <div class="mb-6 text-left">
-                    <label for="message" class="block text-gray-700 text-sm font-bold mb-2">Message</label>
-                    <textarea id="message" name="message" rows="5" class="shadow appearance-none border rounded-lg w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent" placeholder="Tell us about your cleaning needs..."></textarea>
-                </div>
-                <button type="submit" class="bg-teal-600 hover:bg-teal-700 text-white font-bold py-3 px-8 rounded-full shadow-md transition duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2">
-                    Send Message
-                </button>
-            </form>
+            <!-- Google Form Embedded Here -->
+            <div class="bg-white p-4 rounded-xl shadow-lg max-w-xl mx-auto overflow-hidden">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4iIsDeCILBOTQOs2DGEl-48g05Kun2KWQFWCmzJKbEnDhLA/viewform?embedded=true" width="100%" height="2692" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            </div>
+            <!-- End Google Form Embedded Here -->
+
         </div>
     </section>
 
