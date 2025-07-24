@@ -1,7 +1,7 @@
 
 <html lang="en">
 <head>
-    <meta charset=UTF-"8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Start From Scratch Cleaning, LLC - Professional Cleaning Services</title>
     <!-- Tailwind CSS CDN -->
@@ -120,7 +120,7 @@
     <!-- About Us Section -->
     <section id="about" class="py-16 md:py-24 px-6 md:px-12 bg-gray-100 m-4 rounded-lg shadow-md">
         <div class="max-w-6xl mx-auto text-center">
-            <h2 class="text-3xl md:text-4xl font-bold mb-12 section-heading mx-auto">About Start From Scratch Cleaning, LLC</h2>
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 section-heading mx-auto">About Us</h2>
             <div class="text-lg text-gray-700 leading-relaxed max-w-3xl mx-auto">
                 <p class="mb-6">
                     At Start From Scratch Cleaning, LLC, we are passionate about creating clean and healthy environments for our clients. Founded with a commitment to excellence and customer satisfaction, we strive to deliver unparalleled cleaning services that exceed expectations.
@@ -145,14 +145,14 @@
                     <p class="text-lg italic text-gray-700 mb-6">
                         "Start From Scratch Cleaning, LLC transformed my home! It's never been so clean. The team was professional, efficient, and incredibly thorough. Highly recommend!"
                     </p>
-                    <p class="font-semibold text-teal-700">- Jane Doe, Residential Client</p>
+                    <p class="font-semibold text-teal-700">- Alicia Williams, Residential Client</p>
                 </div>
                 <!-- Testimonial 2 -->
                 <div class="bg-teal-50 p-8 rounded-xl shadow-sm">
                     <p class="text-lg italic text-gray-700 mb-6">
                         "Our office space looks fantastic after Start From Scratch Cleaning, LLC started their service. They are reliable and always do an amazing job. A true partner for our business."
                     </p>
-                    <p class="font-semibold text-teal-700">- John Smith, Business Owner</p>
+                    <p class="font-semibold text-teal-700">- John Phillips, Business Owner</p>
                 </div>
                 <!-- Testimonial 3 -->
                 <div class="bg-teal-50 p-8 rounded-xl shadow-sm">
